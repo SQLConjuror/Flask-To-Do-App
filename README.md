@@ -26,7 +26,7 @@ python3 -m venv venv
 
 4. Activate the virtual environment.
 ```
-s5ource venv/bin/activate
+source venv/bin/activate
 ```
 
 5. Install Flask.
