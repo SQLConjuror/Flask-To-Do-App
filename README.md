@@ -36,7 +36,7 @@ pip3 install flask
 
 6. Upgrade pip 
 ```
-pip install --upgrade pip'
+pip install --upgrade pip
 ```
 
 7. Install required packages
