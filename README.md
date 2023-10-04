@@ -51,3 +51,6 @@ python3 run.py
 
 9. Go to your browser and view the app
 <serverIP/hostname>:5000
+
+
+<img width="660" alt="simple_todo_app" src="https://github.com/SQLConjuror/Flask-To-Do-App/assets/32747576/49c90e59-a023-4e36-a71e-db8a2894aa21">
